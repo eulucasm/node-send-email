@@ -6,7 +6,7 @@ const transporter = nodemailer.createTransport({
     port: 587,
     auth: {
         user: 'portalapphomologacao@gmail.com',
-        pass: 'valiant010203',
+        pass: 'xxxxxxxxxx',
     },
 });
 
